@@ -2,7 +2,7 @@
 
 ## Descrição
 
-    ste projeto foi desenvolvido durante as aulas do curso de Python, ministrado pelo Senac, na terceira disciplina, sob a orientação e supervisão do professor Luis Paulo Lessa de Assis. Segue o link do GitHub do professor: [Fabiano Moreira](https://github.com/fmoreirati)
+ste projeto foi desenvolvido durante as aulas do curso de Python, ministrado pelo Senac, na terceira disciplina, sob a orientação e supervisão do professor Luis Paulo Lessa de Assis. Segue o link do GitHub do professor: [Fabiano Moreira](https://github.com/fmoreirati)
 
 ## Objetivo
 
